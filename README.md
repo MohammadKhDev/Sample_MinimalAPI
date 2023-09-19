@@ -1,1 +1,1 @@
-# Sample_MinimalAPI
+# ASP.NET Core 7.0 - Minimal API Example.
